@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Saviour</string>
+    <string name="accessibility_service_label">The Saviour Safety Guard</string>
+    <string name="accessibility_service_description">Detects emergency triple power button presses, enables Mobile Data and Location in emergencies, and intercepts unauthorized power-off attempts with a Fake Switch-Off screen while sending live GPS alerts to saved contacts.</string>
+</resources>
